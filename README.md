@@ -77,6 +77,7 @@
 ```
 
 📁 Структура проекта
+```
 elecbrain/
 ├── 📁 includes/
 │   ├── header.php          # Шапка сайта
@@ -103,3 +104,4 @@ elecbrain/
 ├── 📄 login.php          # Авторизация
 ├── 📄 register.php       # Регистрация
 └── 📄 about.php          # О компании
+```
