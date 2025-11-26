@@ -86,24 +86,30 @@ elecbrain/
 │   ├── functions.php       # Основные функции
 │   └── auth.php           # Авторизация
 ├── 📁 ajax/
-│   ├── add_to_cart.php     # Добавление в корзину
-│   ├── remove_from_cart.php # Удаление из корзины
-│   ├── update_cart.php     # Обновление количества
-│   ├── wishlist.php        # Работа с избранным
+│   ├── add_to_cart.php           # Добавление в корзину
+│   ├── remove_from_cart.php      # Удаление из корзины
+│   ├── update_cart.php           # Обновление количества
+│   ├── wishlist.php              # Работа с избранным
+│   ├── get_wishlist_count.php    # Получение счетчика избранного
 │   └── get_cart_count.php  # Получение счетчика
 ├── 📁 assets/
 │   ├── css/               # Стили
 │   ├── images/            # Изображения
 │   └── js/                # JavaScript файлы
-├── 📄 index.php           # Главная страница
+├── 📄 about.php           # О нас
+├── 📄 account.php         # Личный кабинет
+├── 📄 cart.php            # Корзина
 ├── 📄 catalog.php         # Каталог товаров
-├── 📄 product.php         # Страница товара
-├── 📄 cart.php           # Корзина
-├── 📄 checkout.php       # Оформление заказа
-├── 📄 account.php        # Личный кабинет
-├── 📄 login.php          # Авторизация
+├── 📄 checkout.php        # Оформление заказа
+├── 📄 faqs.php            # FAQs 
+├── 📄 index.php           # Главная страница
+├── 📄 login.php            # Авторизация
+├── 📄 order_success.php    # Подтверждение заказа
+├── 📄 privacy.php          # Политика конфиденциальности
+├── 📄 product.php          # Страница товара
 ├── 📄 register.php       # Регистрация
-└── 📄 about.php          # О компании
+├── 📄 search.php         # Поиск по товарам
+└── 📄 terms.php          # Условия пользования
 ```
 
 🔧 Установка и настройка
